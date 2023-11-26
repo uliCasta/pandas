@@ -2,14 +2,28 @@
     "cSpell.language": "en,es-ES",
     "cSpell.words": [
         "ATENCION",
+        "autopct",
         "cali",
+        "Categoria",
         "dataframes",
+        "Descripcion",
         "direccion",
         "DIRECCION",
+        "figsize",
         "gastranomica",
+        "gastronomica",
+        "gridspec",
+        "LOACION",
+        "maxsplit",
         "rapida",
         "RAPIDA",
+        "Razon",
+        "startangle",
+        "Subcategoria",
         "telefono",
-        "TELEFONO"
+        "TELEFONO",
+        "viridis",
+        "xlabel",
+        "ylabel"
     ]
 }
